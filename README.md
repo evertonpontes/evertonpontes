@@ -29,7 +29,7 @@
   <a href="https://wa.me/5583993724059?text=Ol%C3%A1%21+Gostaria+de+falar+contigo%21%21%21+%3B%29+"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>
 </div>
 
-![Snake animation]()
+![Snake animation](https://github.com/evertonpontes/evertonpontes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 evertonpontes/evertonpontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
