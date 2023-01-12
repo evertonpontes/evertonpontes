@@ -1,8 +1,8 @@
 # Hey welcome to my < GitHub >👋
 
-- 👋 Hi, I’m @evertonpontes
-- 👀 I’m interested in programin
-- 🌱 I’m currently learning python and js
+- 👋 Hi, I’m Everton Pontes 
+- 😲 I’m currently learning python, javaScript and ReactJs
+- 📞 If you want to contact me, see my social medias on link below
 
 <div>
   <a href="https://github.com/evertonpontes" />
