@@ -28,5 +28,3 @@
   <a href="https://twitter.com/vertonvp"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
   <a href="https://wa.me/5583993724059?text=Ol%C3%A1%21+Gostaria+de+falar+contigo%21%21%21+%3B%29+"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>
 </div>
-
-![Snake animation](https://github.com/evertonpontes/evertonpontes/blob/output/github-contribution-grid-snake.svg)
